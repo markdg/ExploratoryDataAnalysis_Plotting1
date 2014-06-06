@@ -1,3 +1,17 @@
+## My Comments
+
+Most of this README, all the content after this paragraph, is from the
+original assignment. I am just adding this bried introduction.
+
+The four required scripts plot1.R, plot2.R, plot3.R and plot4.R and the
+required outputs plot1.png, plot2.png, plot3.png and plot4.png are in
+this repo. The scripts assume the data set has already been downloaded and
+unzipped in the working directory. The scripts are commented with a
+description at each step. The PNG files are output with transparent
+backgrounds to match the example plots given in the assignment.
+
+The original README follows below.
+
 ## Introduction
 
 This assignment uses data from
