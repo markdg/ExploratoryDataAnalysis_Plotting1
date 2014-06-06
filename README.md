@@ -1,7 +1,7 @@
 ## My Comments
 
 Most of this README, all the content after this paragraph, is from the
-original assignment. I am just adding this bried introduction.
+original assignment. I am just adding this brief introduction.
 
 The four required scripts plot1.R, plot2.R, plot3.R and plot4.R and the
 required outputs plot1.png, plot2.png, plot3.png and plot4.png are in
