@@ -1,5 +1,7 @@
 ## Exploratory Data Analysis Project 1 Plot 4 ##
+# Assumes the data has been downloaded and unzipped in the working directory
 
+# Read in the data
 dat <- read.table("household_power_consumption.txt", sep=";", na.strings="?", header=TRUE)
 
 # Read the data and extract the parts we want to work with
@@ -28,6 +30,6 @@ with(dat3, {
   lines(DateTime, dat3$Global_reactive_power)
 })
 
-# Copy it to PNG file
+# Copy it to a PNG file
 dev.copy(png, file="plot4.png")
 dev.off()
